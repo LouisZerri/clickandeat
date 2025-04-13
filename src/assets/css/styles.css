@@ -1,0 +1,13 @@
+.form-control, .input-group-text {
+    border: 1px solid #0080FF;
+}
+
+input[readonly] {
+    background-color: #e9ecef;
+    color: #6c757d;
+    cursor: not-allowed;
+}
+
+table.table-hover tbody tr:hover {
+    cursor: pointer;
+}
